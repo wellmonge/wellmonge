@@ -20,7 +20,7 @@ I actively contribute to open-source projects related to React Native, Swift, an
 
 #### React Native Architecture 🏗️
 Here's an overview of the old React Native architecture:
-![old React Native Architecture](https://github.com/wellmonge/wellmonge/assets/5003655/0f734180-721f-4f95-a834-d1abf1d41eca)
+![old React Native Architecture](https://github.com/wellmonge/wellmonge/assets/5003655/337e50e0-8bfb-473f-9729-773f34e3d3dd)
 
 Here's an overview of the fabric React Native architecture:
 ![new React Native Architecture](https://github.com/wellmonge/wellmonge/assets/5003655/0f734180-721f-4f95-a834-d1abf1d41eca)

@@ -19,17 +19,93 @@ I'm passionate about mobile development, particularly in React Native, Swift, an
 I actively contribute to open-source projects related to React Native, Swift, and Kotlin. Collaborating with the community allows me to learn and grow while helping others solve problems and create innovative solutions.
 
 #### React Native Architecture 🏗️
-Here's an overview of the old React Native architecture:
-![old React Native Architecture](https://github.com/wellmonge/wellmonge/assets/5003655/337e50e0-8bfb-473f-9729-773f34e3d3dd)
+Here's an overview of the React Native architecture:
 
-Here's an overview of the fabric React Native architecture:
-![new React Native Architecture](https://github.com/wellmonge/wellmonge/assets/5003655/0f734180-721f-4f95-a834-d1abf1d41eca)
+``` 
+           +---------------------------------------------+
+           |                 JavaScript Code             |
+           +-------------------------+-------------------+
+                                     |
+                                     |
+                                     v                                                       
++---------------------------+              +---------------------------------------------+
+|       React Native        |              |             React Native Fabric             |
+|          Bridge           |              |                                             |
++------------+--------------+              +-----------------------+-----------------+
+             |                                                       |
+             |                                                       |
+             v                                                       |
++------------+--------------+              +-----------------------+-----------------+
+|      JavaScript Thread    |              |     Platform-Specific APIs (Camera,        |
+|                           |              |     Geolocation, Storage, Push Notifications, etc.) |
++------------+--------------+              +-----------------------+-----------------+
+             |                                                       |
+             |                                                       |
+             v                                                       |
++------------+--------------+              +-----------------------+-----------------+
+|       UI Components       |              |          Native UI Elements (Views, Text,  |
+|                           |              |               Images, etc.)                  |
++----------------------------              +---------------------------------------------+
 
+```
 Here's an overview of the Kotlin clean architecture:
-![kotlin](https://github.com/wellmonge/wellmonge/assets/5003655/152b3740-850a-42a2-accf-b90f5b40b4e9)
+
+```
+         +---------------------------------------------+
+         |                  SwiftUI                    |
+         +-------------------------+-------------------+
+                                   |
+                                   |
+                                   v
++---------------------------+              +---------------------------------------------+
+|       Swift Language      |              |             SwiftUI Framework                |
+|                           |              |                                             |
++------------+--------------+              +-----------------------+-----------------+
+             |                                                       |
+             |                                                       |
+             v                                                       |
++------------+--------------+              +-----------------------+-----------------+
+|         Compiler          |              |          Declarative UI Description          |
+|                           |              |          (e.g., HStack, VStack, ZStack)      |
++------------+--------------+              +-----------------------+-----------------+
+             |                                                       |
+             |                                                       |
+             v                                                       |
++------------+--------------+              +-----------------------+-----------------+
+|     LLVM Intermediate     |              |        Platform-Specific APIs (UIKit)       |
+|      Representation      |              |                                             |
++----------------------------              +-----------------------+-----------------+
+
+```
 
 Here's an overview of the SwiftUI clean architecture:
-![swiftui](https://github.com/wellmonge/wellmonge/assets/5003655/f7bd6408-2fcf-48ae-8538-fa04071737ee)
+```
+          +---------------------------------------------+
+          |                Kotlin                       |
+          +-------------------------+-------------------+
+                                    |
+                                    |
+                                    v
++---------------------------+              +---------------------------------------------+
+|       Kotlin Language     |              |          Jetpack Compose Framework           |
+|                           |              |                                             |
++------------+--------------+              +-----------------------+-----------------+
+             |                                                       |
+             |                                                       |
+             v                                                       |
++------------+--------------+              +-----------------------+-----------------+
+|         Compiler          |              |          Declarative UI Description          |
+|                           |              |          (e.g., Column, Row, Box)           |
++------------+--------------+              +-----------------------+-----------------+
+             |                                                       |
+             |                                                       |
+             v                                                       |
++------------+--------------+              +-----------------------+-----------------+
+|     LLVM Intermediate     |              |         Platform-Specific APIs (Android)    |
+|      Representation      |              |                                             |
++----------------------------              +-----------------------+-----------------+
+
+```
 
 #### Get in Touch 📫
 Feel free to reach out if you have any questions, suggestions, or just want to connect. You can find me on [LinkedIn](https://www.linkedin.com/in/wellinton-monge/), [Twitter](https://twitter.com/monge_wellinton/), or through email. Let's collaborate and build something awesome together!

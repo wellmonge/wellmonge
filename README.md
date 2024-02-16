@@ -10,11 +10,6 @@ Welcome to my GitHub profile! Here's a brief overview of what you'll find here:
 #### About Me 💡
 I'm passionate about mobile development, particularly in React Native, Swift, and Kotlin. I enjoy building high-quality, user-friendly apps that provide great experiences for users.
 
-#### Projects 🚀
-- **React Native Projects**: You'll find a variety of React Native projects here, showcasing my skills in building cross-platform mobile applications efficiently.
-- **Swift Projects**: Explore my Swift projects demonstrating iOS app development expertise, from simple utilities to complex applications.
-- **Kotlin Projects**: Dive into my Kotlin projects showcasing Android app development proficiency, ranging from productivity tools to entertainment apps.
-
 #### Contributions 🌟
 I actively contribute to open-source projects related to React Native, Swift, and Kotlin. Collaborating with the community allows me to learn and grow while helping others solve problems and create innovative solutions.
 

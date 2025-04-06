@@ -1,32 +1,32 @@
-### 👋 Olá, eu sou o Wellinton Monge!
+### 👋 Hey, I'm Wellinton Monge!
 
-Desenvolvedor de software com foco em **mobile**, apaixonado por construir experiências digitais com **React Native**, **Kotlin** e **Swift**. Gosto de unir performance, simplicidade e um bom design em tudo que coloco no ar.
+I'm a software developer focused on **mobile**, passionate about building digital experiences with **React Native**, **Kotlin**, and **Swift**. I strive to combine performance, simplicity, and good design in everything I create.
 
-### 💼 Portfólio
+### 💼 Portfolio
 
-Acesse meu portfólio completo em [**monge.dev**](https://www.monge.dev) — lá você encontra meus projetos, stack favorita e um pouco mais da minha visão sobre tecnologia.
+Check out my full portfolio at [**monge.dev**](https://www.monge.dev) — there you'll find my projects, favorite tech stack, and a bit more about my approach to technology.
 
-### 🧠 Áreas de interesse
+### 🧠 Areas of Interest
 
-- Aplicativos mobile nativos e híbridos
-- Arquitetura limpa (Clean Architecture)
-- Otimização de performance e UX
-- Integração com APIs REST e GraphQL
-- Automação de builds e boas práticas CI/CD
+- Native and hybrid mobile apps
+- Clean architecture
+- Performance and UX optimization
+- REST and GraphQL API integrations
+- Build automation and CI/CD best practices
 
-### 🚀 Tecnologias
+### 🚀 Tech Stack
 
-- **Mobile:** React Native, Kotlin, Swift
-- **Back-end:** Node.js, .NET Core
-- **Banco de Dados:** PostgreSQL, MongoDB, Realm
-- **Ferramentas:** Git, Docker, Figma, Firebase, Fastlane
+- **Mobile:** React Native, Kotlin, Swift  
+- **Backend:** Node.js, .NET Core  
+- **Databases:** PostgreSQL, MongoDB, Realm  
+- **Tools:** Git, Docker, Figma, Firebase, Fastlane
 
-### 🌱 Open Source & Comunidade
+### 🌱 Open Source & Community
 
-Participo de projetos open source e gosto de contribuir com soluções práticas, especialmente no ecossistema do React Native. Se tiver algo legal rolando, me chama!
+I contribute to open-source projects and enjoy solving real-world problems, especially within the React Native ecosystem. Got something cool going on? Let’s talk!
 
-### 📫 Conecte-se comigo
+### 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/wellinton-monge/)
-- [Twitter](https://twitter.com/monge_wellinton/)
-- [Site pessoal](https://www.monge.dev)
+- [LinkedIn](https://www.linkedin.com/in/wellinton-monge/)  
+- [Twitter](https://twitter.com/monge_wellinton/)  
+- [Personal site](https://www.monge.dev)

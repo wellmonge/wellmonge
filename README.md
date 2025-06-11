@@ -4,7 +4,7 @@ I'm a software developer focused on **mobile**, passionate about building digita
 
 ### 💼 Portfolio
 
-Check out my full portfolio at [**www.monge.dev**](https://www.monge.dev) — there you'll find my projects, favorite tech stack, and a bit more about my approach to technology.
+Check out my full portfolio at [**www.monge.dev**](https://monge.dev) — there you'll find my projects, favorite tech stack, and a bit more about my approach to technology.
 
 ### 🧠 Areas of Interest
 

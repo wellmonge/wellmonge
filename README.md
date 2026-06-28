@@ -38,9 +38,8 @@ I've worked across the full lifecycle: system design, backend APIs, mobile apps,
 **Integrations & Fintech**
 - NFSe emission (ISSNet)
 - Pix / QR Code payments
-- Sicoob banking API
+- Banking API
 - Pagar.me
-- MailerSend
 
 ---
 

@@ -64,14 +64,8 @@ I've worked across the full lifecycle: system design, backend APIs, mobile apps,
 
 ---
 
-### 🌱 Open Source & Community
-
-I enjoy contributing to open-source projects and solving real-world engineering challenges. If you're building something interesting in the fintech, logistics, or SaaS space — let's connect!
-
----
-
 ### 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/wellinton-monge/)
 - [Twitter](https://twitter.com/monge_wellinton/)
-- [Personal site](https://www.monge.dev)
+- [Personal site](https://monge.dev)

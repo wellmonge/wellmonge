@@ -1,70 +1,41 @@
-### 👋 Hey, I'm Wellinton Monge!
+# 👋 Wellinton Monge
 
-Software Engineer & Entrepreneur based in **Cuiabá, Brazil** — building robust, scalable products across full-stack web, mobile, and cloud infrastructure. I'm passionate about turning complex problems into clean, well-architected solutions with real business impact.
+**🇧🇷 PT-BR** | [🇺🇸 English](#-english)
 
-🌐 [monge.dev](https://monge.dev)
+## 🇧🇷 Português
 
----
+Engenheiro de Software e empreendedor em **Cuiabá, Brasil**. Construo produtos web, mobile e cloud: SaaS, fintech e apps de transporte.
 
-### 💼 What I Do
+**O que uso**
+- Backend: C# / .NET Core, PHP / Laravel
+- Frontend e mobile: React, TypeScript, React Native (Expo)
+- Cloud e DevOps: Azure, Docker, Terraform, Azure DevOps
+- Bancos: PostgreSQL, Azure SQL, SQLite
+- Integrações: NFSe, Pix, APIs bancárias, Pagar.me
 
-I design and build end-to-end digital products — from multi-tenant SaaS platforms to fintech and transportation apps — with a strong focus on cloud-native architecture, performance, and developer experience.
+**Agora**
+- Plataforma de corridas (mobile-first, cloud-native)
+- Apps financeiros (NFSe, Pix, banking API)
+- Automação com IA
 
-I've worked across the full lifecycle: system design, backend APIs, mobile apps, DevOps pipelines, and financial integrations (including NFSe tax emission, Pix/QR code, and banking APIs).
-
----
-
-### 🛠️ Tech Stack
-
-**Backend**
-- C# / .NET Core — APIs, microservices, background workers
-- PHP / Laravel
-- RESTful APIs & Service Bus (Azure)
-
-**Frontend & Mobile**
-- React.js, TypeScript
-- React Native (Expo) — iOS & Android
-
-**Cloud & DevOps**
-- Azure (App Services, Azure SQL, Service Bus, Container Registry)
-- Docker & container orchestration
-- Azure DevOps — CI/CD pipelines
-- Terraform (Infrastructure as Code)
-
-**Databases**
-- PostgreSQL, Azure SQL, SQLite
-- Entity Framework Core — migrations & optimization
-
-**Integrations & Fintech**
-- NFSe emission (ISSNet)
-- Pix / QR Code payments
-- Banking API
-- Pagar.me
+📫 [LinkedIn](https://www.linkedin.com/in/wellinton-monge/) · [Twitter](https://twitter.com/monge_wellinton/) · [monge.dev](https://monge.dev)
 
 ---
 
-### 🧠 Areas of Expertise
+## 🇺🇸 English
 
-- Multi-tenant SaaS architecture with role-based access control
-- Fintech & payment systems integration
-- Cloud infrastructure design (Azure ecosystem)
-- Mobile app development & deployment (iOS + Android)
-- DevOps automation & CI/CD
-- LGPD compliance & regulatory tech
-- AI integration in production applications
+Software Engineer and entrepreneur based in **Cuiabá, Brazil**. I build web, mobile and cloud products: SaaS, fintech and transportation apps.
 
----
+**Stack**
+- Backend: C# / .NET Core, PHP / Laravel
+- Frontend & mobile: React, TypeScript, React Native (Expo)
+- Cloud & DevOps: Azure, Docker, Terraform, Azure DevOps
+- Databases: PostgreSQL, Azure SQL, SQLite
+- Integrations: Brazilian e-invoicing (NFSe), Pix payments, banking APIs, Pagar.me
 
-### 🚀 Current Projects
+**Now**
+- Ride-sharing platform (mobile-first, cloud-native)
+- Financial apps (NFSe, Pix, banking API)
+- AI-powered automation
 
-- **Ride-sharing platform** — full-stack, mobile-first, cloud-native
-- **Financial services applications** — NFSe, Pix, banking API integrations
-- Exploring AI-powered automation in business workflows
-
----
-
-### 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/wellinton-monge/)
-- [Twitter](https://twitter.com/monge_wellinton/)
-- [Personal site](https://monge.dev)
+📫 [LinkedIn](https://www.linkedin.com/in/wellinton-monge/) · [Twitter](https://twitter.com/monge_wellinton/) · [monge.dev](https://monge.dev)
